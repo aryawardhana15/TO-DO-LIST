@@ -48,7 +48,7 @@ $todos = $stmt->fetchAll();
                 <h1 class="text-4xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-indigo-600 to-purple-600 mb-2">
                    TO DO LIST 
                 </h1>
-                <p class="text-gray-600">Organize your life with ease</p>
+                <p class="text-gray-600">Organize your life with To Do List</p>
             </div>
             
             <!-- Search and Filter -->
